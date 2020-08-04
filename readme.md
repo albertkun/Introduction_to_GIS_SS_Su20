@@ -270,6 +270,8 @@ standalone tables or vector data, and the best way to find these data is
 from authoritative sources, like the government, news organizations, and
 research groups.
 
+One good resource is <https://censusreporter.org>
+
 
 
 Getting down with geodata hubs
