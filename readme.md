@@ -12,8 +12,7 @@ You should download and install [QGIS version
 3.14](https://qgis.org/en/site/forusers/download.html) or higher to your
 computer.
 
-The datasets for the workshop are available in this [Box Folder
-Online](https://ucla.box.com/s/98xzkv5rj5fcszn5blhi5vbsrtwwlj2z).
+The datasets for the workshop are available in this [data folder](/data/).
 
 Download all the files and extract them.
 
