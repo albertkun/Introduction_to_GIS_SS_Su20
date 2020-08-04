@@ -1030,86 +1030,55 @@ legends, and other cartographic goodness.
 100. Another window will appear, and since we are mainly authoring a
     map, let's add that first by clicking the "Add Map" button on the
     right side:
-
     ![](./media/image110.png)
 
-101. Click and drag to add the map to the print layout:
 
-    ![](./media/image111.png)
+
+101. Click and drag to add the map to the print layout:
+![](./media/image111.png)
 
 102. Click the "Text" button to add some text that will serve as our
-    title:
+    title:![](./media/image112.png)
 
-    ![](./media/image112.png)
+103. Click and drag to add it to our canvas:![](./media/image113.png)
 
-103. Click and drag to add it to our canvas:
+104. Click on "Lorem ipsum":![](./media/image114.png)
 
-    ![](./media/image113.png)
+105. Click on "Item Properties":![](./media/image115.png)
 
-104. Click on "Lorem ipsum":
+106. Change the text under "Main Properties":![](./media/image116.png)
 
-    ![](./media/image114.png)
-
-105. Click on "Item Properties":
-
-    ![](./media/image115.png)
-
-106. Change the text under "Main Properties"
-
-    ![](./media/image116.png)
-
-107. Our title will be, "**Areas in Los Angeles with 25% of the
+   Our title will be, "**Areas in Los Angeles with 25% of the
     population living below the Federal Poverty Rate, 2018**"
 
-108. Under "**Appearance**" scroll or click the arrow to change the font
-    size:
+107. Under "**Appearance**" scroll or click the arrow to change the font
+    size: ![](./media/image117.png)
 
-    ![](./media/image117.png)
+108. Change the horizontal alignment to "center": ![](./media/image118.png)
 
-109. Change the horizontal alignment to "center":
+109. Click the "**Add Legend**" button on the left:![](./media/image119.png)
 
-    ![](./media/image118.png)
+110. Drag and to add a legend:![](./media/image120.png)
 
-110. Click the "**Add Legend**" button on the left:
+111. The legend should look like the following: ![](./media/image121.png)
 
-    ![](./media/image119.png)
+112. You can fine tune the legend by clicking on the "Item" and then going to "Item Properties" ![](./media/image122.png)
 
-111. Drag and to add a legend:
+113. Scroll down to the box and uncheck "**Auto update**" to get more
+    control: ![](./media/image123.png)
 
-    ![](./media/image120.png)
-
-112. The legend should look like the following:
-
-    ![](./media/image121.png)
-
-113. You can fine tune the legend by clicking on the "Item" and then
-    going to "Item Properties"
-
-    ![](./media/image122.png)
-
-114. Scroll down to the box and uncheck "**Auto update**" to get more
-    control:
-
-    ![](./media/image123.png)
-
-115. Click on the layer name "**poverty\_in\_la\_county\_over\_25**" and
+114. Click on the layer name "**poverty\_in\_la\_county\_over\_25**" and
     rename it to: "**Census Tracts with more than 25% of living in
-    poverty**"
+    poverty**" ![](./media/image124.png)
 
-    ![](./media/image124.png)
+115. With the legend complete, you are ready to export the map!
 
-116. With the legend complete, you are ready to export the map!
+116. Click on "**Layout**" \>\> "**Export as Image**": ![](./media/image125.png)
 
-117. Click on "**Layout**" \>\> "**Export as Image**":
+117. Choose a location for your map and click save.
 
-    ![](./media/image125.png)
+118. Close the layout editor and save your QGIS project by going to
+    "**Project**" \>\> "**Save** **As..**" ![](./media/image126.png)
 
-118. Choose a location for your map and click save.
-
-119. Close the layout editor and save your QGIS project by going to
-    "**Project**" \>\> "**Save** **As..**"
-
-    ![](./media/image126.png)
-
-120. Congratulations! You have completed your first mapping project in
+119. Congratulations! You have completed your first mapping project in
     QGIS!
