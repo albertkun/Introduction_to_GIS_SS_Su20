@@ -271,64 +271,7 @@ standalone tables or vector data, and the best way to find these data is
 from authoritative sources, like the government, news organizations, and
 research groups.
 
-Below is a table compiled from the UCLA Library detailing other data
-sources:
 
-+-----------------------------------+-----------------------------------+
-| Entity                            | Links                             |
-+===================================+===================================+
-| California Census Research Data   | <http://www.ccrdc.ucla.edu/>      |
-| Center (CCRDC)                    |                                   |
-+-----------------------------------+-----------------------------------+
-| UCLA California Center for        | [Social Sciences Data             |
-| Population Research (CCPR)        | Archive](https://ccpr.ucla.edu/se |
-|                                   | rvices/data/),                    |
-|                                   | including                         |
-|                                   |                                   |
-|                                   | -   [German Federal Employment    |
-|                                   |     Agency (FDZ) Research Data at |
-|                                   |     CCPR](https://ccpr.ucla.edu/s |
-|                                   | ervices/data/census-data/fdz-data |
-|                                   | /)                                |
-|                                   |                                   |
-|                                   | -   [Ready Data                   |
-|                                   |     Services](https://ccpr.ucla.e |
-|                                   | du/services/data/ready-data/)     |
-|                                   |                                   |
-|                                   | -   [Social Sciences Data         |
-|                                   |     Archives](https://ccpr.ucla.e |
-|                                   | du/services/data/social-sciences- |
-|                                   | data-archives/)                   |
-|                                   |                                   |
-|                                   | -   [[CCPR                        |
-|                                   |     Statistical Services]{.underl |
-|                                   | ine}](https://ccpr.ucla.edu/servi |
-|                                   | ces/statistics-and-methods-core-m |
-|                                   | ission/)                          |
-|                                   |                                   |
-|                                   | -   [Demographic Data             |
-|                                   |     Sources](https://ccpr.ucla.ed |
-|                                   | u/services/data/demographic-data- |
-|                                   | sources/)                         |
-+-----------------------------------+-----------------------------------+
-| UCLA Library                      | The library licenses many         |
-|                                   | databases that contain datasets.  |
-|                                   | [See the                          |
-|                                   | list.](http://guides.library.ucla |
-|                                   | .edu/az.php?t=3849&_ga=1.22561499 |
-|                                   | 4.929300897.1454461090)           |
-|                                   |                                   |
-|                                   | Also see:                         |
-|                                   |                                   |
-|                                   | Social Sciences Data Archive -    |
-|                                   | Data Portals:                     |
-|                                   |                                   |
-|                                   | > <http://www.library.ucla.edu/so |
-|                                   | cial-science-data-archive/data-po |
-|                                   | rtals>                            |
-+-----------------------------------+-----------------------------------+
-
-Source: UCLA Library, 2020
 
 Getting down with geodata hubs
 ------------------------------
